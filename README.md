@@ -20,7 +20,7 @@ if u want, please contact me.<br />
 
 ### Spotify Playing 🎧
 
-[<img src="novatorem-tawny.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
+[<img src="https://novatorem-tawny.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
 
 
 <div align=center>
