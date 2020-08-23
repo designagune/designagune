@@ -18,6 +18,10 @@
 if u want, please contact me.<br />
 😷 whoops! rightly beer is after the COVID19 disappears.</b>
 
+### Spotify Playing 🎧
+
+[<img src="novatorem-tawny.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
+
 
 <div align=center>
 
