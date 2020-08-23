@@ -14,7 +14,7 @@
 - Collaboration, Communication, Conversation 💬
 - New Relationship 🧑‍🤝‍🧑
 
-### Spotify Playing 🎧
+### Music Playing 🎧
 [<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
 
 
