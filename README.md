@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Junior Front-end Engineer 
-- 🌃 I'm working for an agency as a ui/ux developer.
+- ✍ I'm studying react intensively.
 
 ### Recent Interest
 - Javascript [Core JS(es6+), JS Framework(React), JS Library] 📃
