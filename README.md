@@ -6,7 +6,7 @@
 
 
 ### 👨‍💻 Junior Front-end Engineer 
-- ✍ I'm studying react intensively.
+- ✍ I'm studying React intensively.
 
 ### Recent Interest
 - Javascript [Core JS(es6+), JS Framework(React), JS Library] 📃
