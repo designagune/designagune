@@ -10,7 +10,7 @@
 
 ### Recent
 - For efficient markup 🤔
-- Javascript : ["React", "Vue"] 📃
+- Javascript : ["React", "Vue", "Vanilla"] 📃
 - a11y 🔎
 - Like Potato 💬
 - New Relationship 🧑‍🤝‍🧑
