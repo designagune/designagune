@@ -9,11 +9,11 @@
 - 💔 Love-hate relationship with Javascript.
 
 ### Recent
-- For efficient markup 🤔
+- 日本語の勉強(ひらがな) 📚
 - Javascript : ["React", "Vue", "Vanilla"] 📃
-- a11y 🔎
+- Canvas 🔎
 - Like Potato 💬
-- New Relationship 🧑‍🤝‍🧑
+- 旅行と贅沢 🛫
 
 ### Listening to in Real time 🎧
 [<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
