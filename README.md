@@ -13,7 +13,7 @@
 - Javascript : ["React", "Vue", "Vanilla"] 📃
 - Canvas 🔎
 - Like Potato 💬
-- 旅行と贅沢 🛫
+- りょこうとぜいたく 🛫
 
 ### Listening to in Real time 🎧
 [<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
