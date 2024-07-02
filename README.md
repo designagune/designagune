@@ -9,7 +9,7 @@
 - 💔 Love-hate relationship with Javascript.
 
 ### Recent
-- 日本語の勉強(ひらがな) 📚
+- 日本語の勉強(漢字と会話) 📚
 - Javascript : ["React", "Vue", "Vanilla"] 📃
 - Canvas 🔎
 - Like Potato 💬
