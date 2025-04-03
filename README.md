@@ -16,7 +16,7 @@
 - 旅行と贅沢 🛫
 
 ### Listening to in Real time 🎧
-[<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
+[<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/designagune/designagune/master/thumbnail.svg';" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
 
 
 <b>I interest talk about IT tech during beer. 🍻</b>
