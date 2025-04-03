@@ -1,19 +1,11 @@
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdesignagune%2F&count_bg=%2391A7FF&title_bg=%233B5BDB&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
-
 ### 👨‍💻 Front-end Developer
 - 💔 Love-hate relationship with Javascript.
 
 ### Recent
-- 日本語の勉強(漢字と会話) 📚
-- Javascript : ["React", "Vue", "Vanilla"] 📃
+- Typescript : ["React", "Vue", "Vanilla"] 📃
 - Canvas 🔎
 - Like Potato 💬
-- 旅行と贅沢 🛫
+- 日本語(漢字と会話) 📚
 
 ### Listening to in Real time 🎧
 [<img src="https://designagune.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" onerror="this.onerror=null; this.src='https://raw.githubusercontent.com/designagune/designagune/master/thumbnail.svg';" />](https://open.spotify.com/user/w9i5duvwkj2lzxtxccbn549u2)
